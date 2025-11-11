@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  server:
+    build: ./server
+    ports:
+      - "8080:80"
+    volumes:
+      - ./evidence:/srv/evidence:ro
+  workbench:
+    build: ./workbench
+    volumes:
+      - ./evidence:/evidence:ro
+      - ./workspace:/workspace
+    command: ["sleep", "infinity"]
