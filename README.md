@@ -117,16 +117,16 @@ Host: **WIN11‑CLIN‑07** | Usuário: **m.junior**
 
 ---
 
-## 7) Critérios de avaliação (10,0 pts + bônus)
-- **Metodologia & Cadeia de Custódia (1,0 pts)**  
-- **Linha do Tempo Correlacionada (1,5 pts)**  
-- **Análise de Host (2,0 pts)**  
-- **Análise de Rede (1,5 pts)**  
-- **Análise CASB/Nuvem (1,0 pts)**  
-- **Impacto & LGPD (1,0 pts)**  
-- **Plano 30‑60‑90 (1,0 pts)**  
-- **Clareza, evidências e reprodutibilidade (2,0 pts)**  
-**Bônus (até +2 pts):** regra **Sigma** para detectar padrão de execução; regra **YARA** para o binário.
+## 7) Critérios de avaliação (100,0 pts + bônus)
+- **Metodologia & Cadeia de Custódia (10,0 pts)**  
+- **Linha do Tempo Correlacionada (10,5 pts)**  
+- **Análise de Host (20,0 pts)**  
+- **Análise de Rede (10,5 pts)**  
+- **Análise CASB/Nuvem (10,0 pts)**  
+- **Impacto & LGPD (10,0 pts)**  
+- **Plano 30‑60‑90 (10,0 pts)**  
+- **Clareza, evidências e reprodutibilidade (20,0 pts)**  
+**Bônus (até +20,0 pts):** regra **Sigma** para detectar padrão de execução; regra **YARA** para o binário.
 
 ---
 
