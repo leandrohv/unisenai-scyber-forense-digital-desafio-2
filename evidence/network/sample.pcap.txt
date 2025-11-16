@@ -1,1 +1,10 @@
-2025-08-29T02:15:05-03:00 HTTP2 POST /upload uploader-edge.io
+# sample.pcap (export sintético)
+2025-08-29T02:15:02-03:00 TCP 10.10.5.77 -> 34.120.90.11:443 S
+2025-08-29T02:15:03-03:00 TLS ClientHello SNI=uploader-edge.io
+2025-08-29T02:15:05-03:00 HTTP2 :method=POST :path=/upload :authority=uploader-edge.io
+2025-08-29T02:15:05-03:00 HTTP2 header Transfer-Encoding: chunked
+2025-08-29T02:15:06-03:00 HTTP2 DATA (chunk 1/20) 64KB
+2025-08-29T02:18:58-03:00 HTTP2 DATA (chunk 20/20) 64KB
+2025-08-29T02:19:02-03:00 HTTP2 200 OK
+2025-08-30T02:15:01-03:00 TLS ClientHello SNI=uploader-edge.io
+2025-08-30T02:20:03-03:00 HTTP2 200 OK

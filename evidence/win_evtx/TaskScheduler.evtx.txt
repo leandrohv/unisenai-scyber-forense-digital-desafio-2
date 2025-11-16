@@ -1,0 +1,6 @@
+# TaskScheduler (export sintético)
+2025-08-28T02:15:02-03:00 | Criada | \System\UpdateTelemetry | Autor: WIN11-CLIN-07\m.junior | RunLevel: HighestAvailable
+2025-08-29T02:15:00-03:00 | Início | \System\UpdateTelemetry | Engine: Taskeng.exe
+2025-08-29T02:19:42-03:00 | Concluída | \System\UpdateTelemetry | Código: 0x0
+2025-08-30T02:15:00-03:00 | Início | \System\UpdateTelemetry | Engine: Taskeng.exe
+2025-08-30T02:20:03-03:00 | Concluída | \System\UpdateTelemetry | Código: 0x0

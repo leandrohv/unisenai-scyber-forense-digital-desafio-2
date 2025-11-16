@@ -1,0 +1,7 @@
+# AmCache (export sintético)
+Program: cbxsync.exe
+Path: C:\Windows\System32\cbxsync.exe
+Publisher: N/A
+SHA-256: d3f1e2a0b9b49f3bd8c5b6a1e14f8f6b1d0e6c4b9ce9af82f2b3b4cd0e2f1a77
+FirstRun: 2025-08-28T02:12:08-03:00
+Size: 6406144

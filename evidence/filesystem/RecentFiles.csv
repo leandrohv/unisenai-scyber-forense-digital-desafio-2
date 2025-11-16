@@ -1,0 +1,4 @@
+timestamp_utc-3,path,user,action
+2025-08-28T02:10:02-03:00,C:\Clinico\Export\pacientes_2025_08.csv,m.junior,open
+2025-08-28T02:10:31-03:00,C:\Clinico\Export\relatorio_lotes.pdf,m.junior,open
+2025-08-29T02:14:50-03:00,C:\Clinico\Export\pacientes_2025_08.csv,SYSTEM,read

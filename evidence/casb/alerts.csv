@@ -1,1 +1,4 @@
 timestamp_utc-3,user,app,action,dest_domain,policy,severity,details
+2025-08-28T02:11:40-03:00,m.junior,CloudBox Portable,install,cloudbox-cdn.net,Shadow IT App Not Allowed,high,download of portable client
+2025-08-29T02:15:05-03:00,SYSTEM,CloudBox Sync,upload,uploader-edge.io,PII Exfiltration Suspected,critical,POST /upload with chunked encoding
+2025-08-30T02:15:02-03:00,SYSTEM,CloudBox Sync,upload,uploader-edge.io,PII Exfiltration Suspected,critical,repeat activity outside business hours

@@ -1,1 +1,13 @@
-2025-08-28T02:09:41-03:00 | 4624 | Logon | m.junior
+# Security.evtx (export sintético)
+2025-08-28T02:09:41-03:00 | 4624 | Logon bem-sucedido | Conta: m.junior | Workstation: WIN11-CLIN-07 | LogonType: 2
+2025-08-28T02:10:57-03:00 | 4670 | Permissões alteradas | Objeto: C:\Clinico\Export | Usuário: m.junior
+2025-08-28T02:12:08-03:00 | 4688 | Novo processo | C:\Users\m.junior\AppData\Local\Temp\cbxsync.exe | Pai: powershell.exe
+2025-08-28T02:15:02-03:00 | 4698 | Tarefa agendada criada | \System\UpdateTelemetry | Usuário: m.junior
+2025-08-28T02:15:10-03:00 | 4699 | Tarefa agendada atualizada | \System\UpdateTelemetry | NextRun: 2025-08-29T02:15-03:00
+2025-08-28T02:16:23-03:00 | 4634 | Logoff | Conta: m.junior
+2025-08-29T02:14:55-03:00 | 4624 | Logon bem-sucedido | Conta: SYSTEM | Service for task \System\UpdateTelemetry
+2025-08-29T02:15:01-03:00 | 4688 | Novo processo | C:\Windows\System32\cbxsync.exe --headless --dest uploader-edge.io | Pai: svchost.exe
+2025-08-29T02:19:42-03:00 | 4689 | Processo terminado | cbxsync.exe | ExitCode: 0
+2025-08-30T02:14:58-03:00 | 4624 | Logon bem-sucedido | Conta: SYSTEM | Service for task \System\UpdateTelemetry
+2025-08-30T02:15:00-03:00 | 4688 | Novo processo | C:\Windows\System32\cbxsync.exe --headless --dest uploader-edge.io | Pai: svchost.exe
+2025-08-30T02:20:03-03:00 | 4689 | Processo terminado | cbxsync.exe | ExitCode: 0
